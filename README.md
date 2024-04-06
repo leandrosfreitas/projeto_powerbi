@@ -2,6 +2,7 @@
 
 Print desafio projeto PowerBI
 
-![image](https://github.com/leandrosfreitas/projeto_powerbi_dio/assets/66499763/73a0e88c-8315-4ea7-b6c3-03db15223314)
+![image](https://github.com/leandrosfreitas/projeto_powerbi/assets/66499763/2ee7d8b9-0e84-42e5-8397-ce017814f3ce)
 
-![image](https://github.com/leandrosfreitas/projeto_powerbi_dio/assets/66499763/91d3c3aa-9fbf-427b-ba20-cfef3f019a95)
+![image](https://github.com/leandrosfreitas/projeto_powerbi/assets/66499763/754229ee-a6d7-42f4-ac02-52ce8565f13d)
+
